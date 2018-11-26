@@ -7,8 +7,10 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using StudentRecords.Data;
 
 namespace StudentRecords
 {
@@ -32,6 +34,8 @@ namespace StudentRecords
             .AddAzureAd(options => Configuration.Bind("AzureAd", options))
             .AddCookie();
 
+            services.AddDbContext<RecordsContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("RecordsDB")));
             services.AddMvc();
         }
 
