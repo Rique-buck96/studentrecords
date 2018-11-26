@@ -15,10 +15,13 @@ namespace StudentRecords.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Units>(entity =>
             {
+                entity.ToTable("Units");
+                entity.HasKey(e => e.UnitCode);
                 entity.Property(e => e.UnitCode).IsRequired();
-                entity.Property(e => e.Results).IsRequired();
                 entity.Property(e => e.UnitCoordinator).IsRequired();
                 entity.Property(e => e.UnitOutline).IsRequired();
                 entity.Property(e => e.UnitTitle).IsRequired();
@@ -26,6 +29,8 @@ namespace StudentRecords.Data
 
             modelBuilder.Entity<Users>(entity =>
             {
+                entity.ToTable("Users");
+                entity.HasKey(e => e.Id);
                 entity.Property(e => e.Id).IsRequired();
                 entity.Property(e => e.Username).IsRequired();
                 entity.Property(e => e.Email).IsRequired();
@@ -34,7 +39,10 @@ namespace StudentRecords.Data
 
             modelBuilder.Entity<Results>(entity =>
             {
+                entity.ToTable("Results");
+                entity.HasKey(e => e.StudentId);
                 entity.HasMany(d => d.Unit).WithOne(p => p.Results).HasForeignKey(d => d.UnitCode);
+                entity.Property(e => e.UnitCode).IsRequired();
                 entity.Property(e => e.StudentId).IsRequired();
                 entity.Property(e => e.Ass1Score).IsRequired();
                 entity.Property(e => e.Ass2Score).IsRequired();

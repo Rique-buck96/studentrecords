@@ -30,3 +30,8 @@ C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netco
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\StudentRecords.dll
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\StudentRecords.pdb
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\StudentRecords.csproj.CopyComplete
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Create.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Delete.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Details.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Edit.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Index.g.cshtml.cs

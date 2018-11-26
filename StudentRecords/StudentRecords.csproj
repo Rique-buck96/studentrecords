@@ -6,8 +6,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20181126075507_First.cs" />
+    <Compile Remove="Migrations\20181126075507_First.Designer.cs" />
+    <Compile Remove="Migrations\20181126080043_First.cs" />
+    <Compile Remove="Migrations\20181126080043_First.Designer.cs" />
+    <Compile Remove="Migrations\20181126080314_First.cs" />
+    <Compile Remove="Migrations\20181126080314_First.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
     <PackageReference Include="WindowsAzure.Storage" Version="9.1.1" />
   </ItemGroup>
 

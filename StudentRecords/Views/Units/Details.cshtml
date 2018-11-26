@@ -1,0 +1,42 @@
+﻿@model StudentRecords.Models.Units
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Units</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitTitle)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UnitTitle)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitCoordinator)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UnitCoordinator)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitOutline)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UnitOutline)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Results)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Results.StudentId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.UnitCode">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
