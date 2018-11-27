@@ -4,9 +4,11 @@ using StudentRecords.Data;
 using StudentRecords.Models;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace StudentRecords.Controllers
 {
+    [Microsoft.AspNetCore.Authorization.Authorize]
     public class ResultsController : Controller
     {
         private readonly RecordsContext _context;

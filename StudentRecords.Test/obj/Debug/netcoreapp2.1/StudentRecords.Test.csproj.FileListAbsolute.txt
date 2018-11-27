@@ -12,3 +12,8 @@ C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.AssemblyInfo.cs
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.dll
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.pdb
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Views.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Views.pdb
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.pdb
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.csproj.CopyComplete
