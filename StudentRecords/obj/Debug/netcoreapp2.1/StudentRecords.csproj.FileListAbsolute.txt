@@ -35,3 +35,8 @@ C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netco
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Details.g.cshtml.cs
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Edit.g.cshtml.cs
 C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Units\Index.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Results\Create.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Results\Delete.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Results\Details.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Results\Edit.g.cshtml.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords\obj\Debug\netcoreapp2.1\Razor\Views\Results\Index.g.cshtml.cs

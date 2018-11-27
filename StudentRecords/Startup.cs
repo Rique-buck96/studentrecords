@@ -36,6 +36,7 @@ namespace StudentRecords
 
             services.AddDbContext<RecordsContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("RecordsDB")));
+
             services.AddMvc();
         }
 

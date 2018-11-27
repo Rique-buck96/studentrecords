@@ -1,0 +1,14 @@
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Test.deps.json
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Test.runtimeconfig.json
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Test.runtimeconfig.dev.json
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Test.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\bin\Debug\netcoreapp2.1\StudentRecords.Test.pdb
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.csprojAssemblyReference.cache
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.AssemblyInfoInputs.cache
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.AssemblyInfo.cs
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.dll
+C:\Users\Enrique Buck\source\repos\StudentRecords\StudentRecords.Test\obj\Debug\netcoreapp2.1\StudentRecords.Test.pdb
